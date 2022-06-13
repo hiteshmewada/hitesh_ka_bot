@@ -1,0 +1,14 @@
+{
+  "name": "hitesh_ka_bot",
+  "version": "1.0.0",
+  "description": "A bo which respond messages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh Mewada",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
